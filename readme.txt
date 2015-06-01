@@ -1,2 +1,1 @@
-hello word!
-I love Git veru much!
+This is a project of QT.

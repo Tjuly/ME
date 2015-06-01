@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CSS/add-line_horizontal.png</file>
+        <file>CSS/add-line_vertical.png</file>
+        <file>CSS/array_down.png</file>
+        <file>CSS/checkbox_checked.png</file>
+        <file>CSS/checkbox_unchecked.png</file>
+        <file>CSS/edit.png</file>
+        <file>CSS/error.png</file>
+        <file>CSS/Font Awesome Cheatsheet.png</file>
+        <file>CSS/fontawesome-webfont.ttf</file>
+        <file>CSS/gray.css</file>
+        <file>CSS/info.png</file>
+        <file>CSS/LabLogo.jpg</file>
+        <file>CSS/QSS.css</file>
+        <file>CSS/qt_zh_CN.qm</file>
+        <file>CSS/question.png</file>
+        <file>CSS/radio_normal.png</file>
+        <file>CSS/radio_selected.png</file>
+        <file>CSS/save.png</file>
+        <file>CSS/sub-line_horizontal.png</file>
+        <file>CSS/sub-line_vertical.png</file>
+        <file>CSS/blue.css</file>
+        <file>CSS/013.jpg</file>
+        <file>CSS/018.jpg</file>
+        <file>CSS/014.jpg</file>
+    </qresource>
+</RCC>
