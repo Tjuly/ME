@@ -17,11 +17,11 @@ MainWindow::MainWindow(QWidget *parent) :
     item->setSizeHint(QSize(100,110));
     ui->ImportlistWidget->setItemWidget(item,myList);
 
-//    myList = new listItemForm();
-//    item = new QListWidgetItem();
-//    ui->listWidget->insertItem(ui->listWidget->size().height(),item);
-//    item->setSizeHint(QSize(100,110));
-//    ui->listWidget->setItemWidget(item,myList);
+    myList = new listItemForm();
+    item = new QListWidgetItem();
+    ui->listWidget->insertItem(ui->listWidget->size().height(),item);
+    item->setSizeHint(QSize(100,110));
+    ui->listWidget->setItemWidget(item,myList);
 
 //    myList = new listItemForm();
 //    item = new QListWidgetItem();
